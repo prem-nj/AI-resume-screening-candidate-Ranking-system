@@ -80,6 +80,15 @@ For a job description like "Python developer with experience in machine learning
 - `resume3.pdf`: 45.12%
 
 The results will be displayed in a table sorted by match percentage in descending order.
+## Screenshots
+
+### 1. Uploading Resumes  
+![image](https://github.com/user-attachments/assets/1e5878af-fe03-427d-a5ec-7c747671335a)
+
+
+### 2. Ranking Results  
+![image](https://github.com/user-attachments/assets/2e592887-1ae0-40cc-a025-fe7401f939bb)
+
 
 ## Limitations
 - Only supports PDF files for resume uploads.
@@ -104,7 +113,7 @@ Feel free to fork this repository, submit issues, or create pull requests with e
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
-For questions or feedback, reach out to [your-email@example.com] or open an issue on the repository.
+For questions or feedback, reach out to premjadhav21314@gmail.com or open an issue on the repository.
 
 ---
 
