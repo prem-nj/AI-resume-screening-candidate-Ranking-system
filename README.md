@@ -1,7 +1,4 @@
-# AI-resume-screening-candidate-Ranking-system
-Below is a README file tailored for your project, "AI Resume Screening & Candidate Ranking System." This README provides an overview, setup instructions, usage details, and other relevant information for anyone who might use or contribute to your project.
 
----
 
 # AI Resume Screening & Candidate Ranking System
 
