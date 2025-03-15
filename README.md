@@ -117,5 +117,3 @@ For questions or feedback, reach out to [your-email@example.com] or open an issu
   pip freeze > requirements.txt
   ```
   after installing the dependencies.
-
-Let me know if you’d like to tweak this further!
